@@ -1,0 +1,8 @@
+type 
+id
+summary
+spep to reproduce
+result
+expected result
+sprint
+priority
