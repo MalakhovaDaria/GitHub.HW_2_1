@@ -1,0 +1,22 @@
+Test checklist of the registration page
+
+Message about required fields
+   First Name
+   Last Name
+   Date of birth
+   City
+   Repeat the password
+Editing information
+   Latin letters when filling in
+   Cyrillic when filling in
+   Special characters when filling in
+   Existing login
+   Non-existent login
+   Showing/hiding the entered password
+   Only numbers when filling in the fields
+   Only a space when filling in the fields
+   Space when filling in the fields
+Formatting
+   Password that does not meet the criteria
+   Different password
+   Boundary values
