@@ -1,7 +1,7 @@
 type 
 id
 summary
-spep to reproduce
+step to reproduce
 result
 expected result
 sprint
